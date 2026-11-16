@@ -66,3 +66,14 @@ Expected Graduation: 2027
 ---
 
 ⭐ Thank you for visiting my project!
+
+## 📸 Dashboard Preview
+
+![EduTrack Dashboard](Screenshots/EduTrack-dashboard.png)
+
+## 📊 Key Dashboard Metrics
+
+- Total Students: 50
+- Average Marks: 68.11
+- Average Attendance: 76.5%
+- Pass Percentage: 100%
